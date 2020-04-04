@@ -101,9 +101,19 @@ section{
 }
 
 .box form{
+  position: relative;
   width: 80%;
   margin-left: 10%;
   margin-top: 5%;
+  background: black;
+}
+
+.box form i{
+  position: absolute;
+  color: white;
+  left: 5%;
+  top: 4px;
+  padding: 11px 8px;
 }
 
 .box form input{
@@ -112,6 +122,7 @@ section{
   margin-top: 4%;
   margin-bottom: 4%;
   border-radius: 10px;
+  padding-left: 30px;
   background: black;
   color: green;
   font-size: 25px;
@@ -130,4 +141,8 @@ section{
   color: green;
   border-radius: 20px;
   font-size: 25px;
+}
+
+.box form button:hover{
+  box-shadow: 0 0 20px green;
 }
