@@ -96,7 +96,6 @@ section{
 
 .box{
   width: 30%;
-  background: black;
   border-right: 1px solid lightblue;
   float: left;
 }
