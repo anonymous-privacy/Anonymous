@@ -89,6 +89,7 @@ section{
 
 .box {
   width: 60%;
+  margin-top: 10%;
   margin-left: 20%;
   background: black;
   border-radius: 20px;
@@ -108,7 +109,8 @@ section{
 }
 
 .in nav{
-  width: 100%;
+  width: 90%;
+  margin-left: 5%;
   background: #1e1e1e;
 }
 
