@@ -82,3 +82,45 @@ header::after{
 section{
   width: 100%;
 }
+
+.contanier{
+  width: 98%;
+  margin-left: 1%;
+}
+
+.contanier::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.box{
+  width: 30%;
+  background: black;
+  border-left: 1px solid lightblue;
+  float: left;
+}
+
+.box form{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.box form input{
+  width: 90%;
+  margin-left: 5%;
+  border-radius: 15px;
+  color: green;
+  font-size: 25px;
+  
+}
+
+.box form button{
+  width: 50%;
+  margin-left: 25%;
+  background: black;
+  color: green;
+  border-radius: 20px;
+  font-size: 25px;
+}
