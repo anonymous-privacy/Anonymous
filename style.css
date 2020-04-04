@@ -78,3 +78,7 @@ header::after{
   color: white;
   text-align: center;
 }
+
+section{
+  width: 100%;
+}
