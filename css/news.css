@@ -101,6 +101,7 @@ section{
 
 .box h1{
   color: green;
+  border-bottom: 1px solid lightgreen;
   text-shadow: 0 0 20px green;
   text-align: center;
 }
