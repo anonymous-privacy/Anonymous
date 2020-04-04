@@ -148,6 +148,7 @@ section{
   text-align: center;
   color: green;
   border-bottom: 1px solid lightgreen;
+  margin-top: 15px;
 }
 
 .out p{
