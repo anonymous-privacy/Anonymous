@@ -108,15 +108,16 @@ section{
 
 .box form i{
   position: absolute;
-  left: 5px;
-  top: 10px;
-  padding: 20px 18px;
+  left: 5%;
+  top: 8px;
+  padding: 30px 18px;
   color: white;
 }
 
 .box form input{
   font-size: 25px;
-  width: 98%;
+  width: 90%;
+  margin-left: 5%;
   padding-left: 30px;
   height: 40px;
   background: black;
