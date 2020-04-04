@@ -79,6 +79,10 @@ header::after{
   text-align: center;
 }
 
+.two nav ul li a:hover{
+  color: green;
+}
+
 section{
   width: 100%;
 }
