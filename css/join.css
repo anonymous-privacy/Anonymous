@@ -152,6 +152,7 @@ section{
 }
 
 .out p{
+  margin-top: 10px;
   color: green;
 }
 
