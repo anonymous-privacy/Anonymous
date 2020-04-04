@@ -99,11 +99,13 @@ section{
   margin-top: 10%;
   background: black;
   box-shadow: 0 0 20px green;
+  border-radius: 20px;
 }
 
 .box img{
   width: 30%;
   margin-left: 32%;
+  margin-bottom: 6%;
 }
 
 .box form{
