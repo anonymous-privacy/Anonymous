@@ -131,6 +131,10 @@ section{
   font-size: 20px;
 }
 
+.box nav li a i{
+  color: white;
+}
+
 .inbox{
   width: 60%;
   float: right;
