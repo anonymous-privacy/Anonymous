@@ -101,10 +101,33 @@ section{
   box-shadow: 0 0 20px green;
 }
 
-.box input{
+.box form{
   width: 100%;
+}
+
+.box form input{
+  font-size: 25px;
+  width: 90%;
+  margin-left: 5%;
   height: 40px;
   background: black;
   border: 2px solid lightgrey;
+  border-radius: 15px;
   color: green;
+}
+
+.box form input:hover{
+  border: 2px solid green;
+}
+
+.box form button{
+  font-size: 25px;
+  width: 50%;
+  height: 40px;
+  color: green;
+  margin-left: 25%;
+}
+
+.box form button:hover{
+  box-shadow: 0 0 20px green;
 }
