@@ -6,7 +6,8 @@
 body{
   margin: 0;
   padding: 0;
-  background: #1e1e1e;
+  background: url(/img/an.jpg);
+  background-size: cover;
 }
 
 header{
