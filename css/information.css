@@ -102,13 +102,23 @@ section{
 }
 
 .box form{
+  position: relative;
   width: 100%;
+}
+
+.box form i{
+  position: absolute;
+  left: 0;
+  top: 8px;
+  padding: 13px 11px;
+  color: white;
 }
 
 .box form input{
   font-size: 25px;
   width: 90%;
   margin-left: 5%;
+  padding-left: 30px;
   height: 40px;
   background: black;
   border: 2px solid lightgrey;
