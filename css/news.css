@@ -112,14 +112,15 @@ section{
 .box nav li{
   width: 90%;
   margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   list-style: none;
-  text-align: left;
-  color: white;
+  text-align: center;
 
 }
 
 .box nav li:hover{
-  border: 
+
 }
 
 .inbox{
