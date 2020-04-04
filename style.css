@@ -61,6 +61,7 @@ header::after{
 
 .two nav ul li{
   text-align: center;
+  border-right: 2px solid green;
   margin-right: 5%;
   list-style: none;
   color: white;
@@ -69,18 +70,13 @@ header::after{
 }
 
 .two nav ul li:hover{
-  border-right: 2px solid green;
-  border-left: 2px solid green;
+  border-bottom: 3px solid green;
 }
 
 .two nav ul li a{
   text-decoration: none;
   color: white;
   text-align: center;
-}
-
-.two nav ul li a:hover{
-  color: green;
 }
 
 section{
