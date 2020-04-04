@@ -110,10 +110,13 @@ section{
 .box form input{
   width: 90%;
   margin-left: 5%;
-  border-radius: 15px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  border-radius: 10px;
+  background: black;
   color: green;
   font-size: 25px;
-  
+
 }
 
 .box form button{
