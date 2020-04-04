@@ -115,7 +115,12 @@ section{
   background: black;
   color: green;
   font-size: 25px;
+  border: 2px solid lightgrey;
 
+}
+
+.box form input:hover{
+  border: 2px solid green;
 }
 
 .box form button{
