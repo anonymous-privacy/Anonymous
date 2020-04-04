@@ -124,6 +124,10 @@ section{
   font-size: 25px;
   width: 50%;
   height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: black;
+  border: 2px solid lightgrey;
   color: green;
   margin-left: 25%;
 }
