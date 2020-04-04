@@ -140,6 +140,20 @@ section{
 }
 
 .out{
-  width: 70%;
+  width: 68%;
   float: right;
+}
+
+.out h1{
+  text-align: center;
+  color: green;
+  border-bottom: 1px solid lightgreen;
+}
+
+.out p{
+  color: green;
+}
+
+.out small{
+  color: lightgreen;
 }
