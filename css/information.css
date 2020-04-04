@@ -130,6 +130,7 @@ section{
   border: 2px solid lightgrey;
   color: green;
   margin-left: 25%;
+  border-radius: 30px;
 }
 
 .box form button:hover{
