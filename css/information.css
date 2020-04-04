@@ -101,6 +101,11 @@ section{
   box-shadow: 0 0 20px green;
 }
 
+.box img{
+  width: 30%;
+  margin-left: 32%;
+}
+
 .box form{
   position: relative;
   width: 100%;
