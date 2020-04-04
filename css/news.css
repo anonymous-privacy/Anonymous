@@ -99,6 +99,29 @@ section{
   float: left;
 }
 
+.box h1{
+  color: green;
+  text-shadow: 0 0 20px green;
+  text-align: center;
+}
+
+.box nav{
+  width: 100%;
+}
+
+.box nav li{
+  width: 90%;
+  margin-left: 5%;
+  list-style: none;
+  text-align: left;
+  color: white;
+
+}
+
+.box nav li:hover{
+  border: 
+}
+
 .inbox{
   width: 60%;
   float: right;
