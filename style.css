@@ -173,6 +173,7 @@ section{
 
 .inbox nav li{
   display: inline-block;
+  text-align: center;
   font-size: 30px;
   border-right: 2px solid black;
   width: 48%;
@@ -181,6 +182,10 @@ section{
 .inbox nav li a{
   text-decoration: none;
   color: white;
+}
+
+.inbox nav li a:hover{
+  color: black;
 }
 
 .inbox p{
