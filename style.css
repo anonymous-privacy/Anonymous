@@ -175,3 +175,8 @@ section{
   font-size: 20px;
 
 }
+
+.inbox small{
+  font-size: 12px;
+  color: lightgreen;
+}
