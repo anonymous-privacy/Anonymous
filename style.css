@@ -166,7 +166,6 @@ section{
 }
 
 .inbox p{
-  text-decoration: underline;
   color: lightgrey;
 
 }
@@ -174,5 +173,5 @@ section{
 .inbox q{
   color: lightgreen;
   font-size: 20px;
-  
+
 }
