@@ -29,9 +29,9 @@ header::after{
 }
 
 .one img{
-  width: 55%;
+  width: 50%;
   height: 80px;
-  margin-left: 20%;
+  margin-left: 25%;
   margin-top: 10px;
   border-radius: 60px;
 }
