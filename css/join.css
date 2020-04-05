@@ -157,6 +157,7 @@ section{
 }
 
 .out li{
+  margin-top: 8px;
   list-style: none;
   color: white;
 }
