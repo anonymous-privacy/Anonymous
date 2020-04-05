@@ -157,5 +157,6 @@ section{
 }
 
 .out small{
+  width: 90%;
   color: lightgreen;
 }
