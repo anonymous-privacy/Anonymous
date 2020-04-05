@@ -149,6 +149,19 @@ section{
   border: 2px solid green;
 }
 
+.it form button{
+  width: 50%;
+  margin-left: 25%;
+  background: black;
+  color: green;
+  border-radius: 20px;
+  font-size: 25px;
+}
+
+.it form button:hover{
+  box-shadow: 0 0 20px green;
+}
+
 .out{
   width: 70%;
   float: right;
