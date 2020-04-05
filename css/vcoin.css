@@ -101,5 +101,15 @@ section{
   box-shadow: 0 0 20px green;
   background: black;
   border-radius: 30px;
-  
+}
+
+.in{
+  width: 30%;
+  background: darkgreen;
+  float: left;
+}
+
+.out{
+  width: 70%;
+  float: right;
 }
