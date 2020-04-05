@@ -166,6 +166,7 @@ section{
 }
 
 .inbox nav{
+  margin-bottom: 30px;
   width: 100%;
   background: linear-gradient(green 20%,black 80%);
 }
@@ -174,8 +175,7 @@ section{
   display: inline-block;
   font-size: 30px;
   border-right: 2px solid black;
-  width: 40%;
-  margin-left: 5%;
+  width: 50%;
 }
 
 .inbox nav li a{
