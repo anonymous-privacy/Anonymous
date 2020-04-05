@@ -156,6 +156,11 @@ section{
   color: green;
 }
 
+.out li{
+  list-style: none;
+  color: white;
+}
+
 .out small{
   width: 90%;
   color: lightgreen;
