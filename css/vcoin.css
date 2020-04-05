@@ -115,6 +115,7 @@ section{
 }
 
 .out h1{
+  width: 20px;
   text-align: center;
   color: lightgreen;
   background: black;
