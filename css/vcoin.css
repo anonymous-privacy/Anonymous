@@ -168,5 +168,17 @@ section{
 }
 
 .out h1{
+  font-size: 20px;
+  color: white;
+  background: black;
+
+}
+
+.out small{
+  color: white;
+}
+
+.out p{
+  color: lightgreen;
 
 }
