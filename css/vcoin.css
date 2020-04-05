@@ -82,3 +82,13 @@ header::after{
 section{
   width: 100%;
 }
+
+.contanier{
+  width: 100%;
+}
+
+.contanier h1{
+  text-align: center;
+  color: green;
+  
+}
