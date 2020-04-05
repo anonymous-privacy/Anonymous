@@ -113,3 +113,11 @@ section{
   width: 70%;
   float: right;
 }
+
+.out h1{
+  text-align: center;
+  color: lightgreen;
+  background: black;
+  border: 1px solid white;
+  border-radius: 50px;
+}
