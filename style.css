@@ -151,3 +151,16 @@ section{
 .box form button:hover{
   box-shadow: 0 0 20px green;
 }
+
+.inbox{
+  width: 69%;
+  float: right;
+}
+
+.inbox h1{
+  text-align: center;
+  background: black;
+  color: green;
+  text-shadow: 0 0 20 lightgreen;
+  border-bottom: 1px solid green;
+}
