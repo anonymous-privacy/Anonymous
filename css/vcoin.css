@@ -138,6 +138,7 @@ section{
 .out{
   width: 70%;
   float: right;
+  background: darkblue;
 }
 
 .out h1{
