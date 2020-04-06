@@ -149,6 +149,19 @@ section{
   border: 2px solid green;
 }
 
+.rig{
+  width: 90%;
+  height: 120px;
+  margin-left: 5%;
+  margin-top: 4%;
+  background: black;
+}
+
+.rig h2{
+  color: lightgreen;
+
+}
+
 .box form button{
   width: 50%;
   margin-left: 25%;
