@@ -107,6 +107,7 @@ section{
   width: 30%;
   background: black;
   float: left;
+  border-radius: 30px;
 }
 
 .in h2 {
