@@ -122,17 +122,8 @@ section{
   margin-bottom: 50px;
 }
 
-.box form button{
-  width: 50%;
-  margin-left: 25%;
-  background: black;
-  color: green;
-  border-radius: 20px;
-  font-size: 25px;
-}
-
-.box form button:hover{
-  box-shadow: 0 0 20px green;
+.in h2 img{
+  width: 5%;
 }
 
 .out{
