@@ -155,11 +155,14 @@ section{
   margin-left: 5%;
   margin-top: 4%;
   background: black;
+  border-radius: 20px;
 }
 
 .rig h2{
   color: lightgreen;
-
+  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 .box form button{
