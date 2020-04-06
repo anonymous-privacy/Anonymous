@@ -109,6 +109,7 @@ section{
 .box nav li{
   margin-top: 5%;
   background: black;
+  text-align: center;
 }
 
 .box nav li a{
