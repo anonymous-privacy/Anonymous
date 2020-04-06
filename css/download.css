@@ -101,6 +101,25 @@ section{
   float: left;
 }
 
+.box nav{
+  width: 95%;
+  margin-left: 2%;
+}
+
+.box nav li{
+  margin-top: 5%;
+}
+
+.box nav li a{
+  text-decoration: none;
+  color: white;
+}
+
+.box nav li a img{
+  width: 10%;
+  height: 20px;
+}
+
 .inbox{
   width: 69%;
   float: right;
