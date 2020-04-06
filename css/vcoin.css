@@ -105,64 +105,15 @@ section{
 
 .in{
   width: 30%;
-  background: darkgreen;
+  background: black;
   float: left;
 }
 
-.in h1{
-  width: 15%;
-  margin-left: 42%;
-  text-align: center;
-  color: lightgreen;
-  background: black;
-  border: 1px solid white;
-  border-radius: 200px;
-}
-
-.it{
-  position: relative;
-}
-
-.it i{
-  position: absolute;
-  left: 5%;
-  top: 8px;
-  padding: 11px 8px;
-  color: white;
-}
-
-.it input{
-  width: 80%;
-  margin-left: 5%;
-  margin-top: 4%;
-  margin-bottom: 4%;
-  border-radius: 10px;
-  padding-left: 30px;
-  background: black;
+.in h2 {
   color: green;
-  font-size: 25px;
-  border: 2px solid lightgrey;
-
-}
-
-.it input:hover{
-  border: 2px solid green;
-}
-
-.rig{
-  width: 90%;
-  height: 120px;
-  margin-left: 5%;
-  margin-top: 4%;
-  background: black;
-  border-radius: 20px;
-}
-
-.rig h2{
-  color: lightgreen;
   font-size: 30px;
   text-align: center;
-  margin-top: 3%;
+  margin-top: 30px;
 }
 
 .box form button{
