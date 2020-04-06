@@ -81,6 +81,9 @@ header::after{
 
 section{
   width: 100%;
+  height: 1300px;
+  background: url(/img/block.jpg);
+  background-size: cover;
 }
 
 .contanier{
