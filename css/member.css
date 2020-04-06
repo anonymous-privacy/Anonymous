@@ -144,6 +144,19 @@ section{
   border: 2px solid lightgrey;
 }
 
+.it button{
+  width: 50%;
+  margin-left: 25%;
+  background: black;
+  color: green;
+  border-radius: 20px;
+  font-size: 25px;
+}
+
+.it button:hover{
+  box-shadow: 0 0 20px green;
+}
+
 .out{
   width: 68%;
   float: right;
