@@ -125,6 +125,7 @@ section{
 .in h2 img{
   width: 10%;
   color: black;
+  border-radius: 100px;
 }
 
 .out{
