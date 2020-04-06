@@ -133,6 +133,15 @@ section{
   border: 2px solid lightgrey;
 }
 
+.it textarea{
+  width: 80%;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  background: black;
+  color: green;
+}
+
 .out{
   width: 68%;
   float: right;
