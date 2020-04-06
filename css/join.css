@@ -88,9 +88,9 @@ section{
 }
 
 .box {
-  width: 80%;
+  width: 90%;
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 5%;
   background: black;
   border-radius: 20px;
   box-shadow: 0 0 20px green;
